@@ -19,9 +19,9 @@ Projeto desenvolvido para aprendizagem de:
 
 ## Equipe
 
-- Integrante 1
-- Integrante 2
-- Integrante 3
+- Emanuelly Gibson
+- Nayra Gama
+- Matheus
 
 ## Repositório 
 
